@@ -17,19 +17,24 @@ The Answer for Theoritical Parts is provided in the [Theoritical Answer PDF](./H
 The Answer for Code Parts is provided in the [Code Answer Project](./HW2/SignalHW2).
 
 ### HW3
-For a detailed HomeWork description, please refer to the [Project Description PDF](./Project1/LA%20Project%201.pdf).
+For a detailed HomeWork description, please refer to the [HW3 Description PDF](./HW3/HW3.pdf). <br />
+The Answer for Theoritical Parts is provided in the [Theoritical Answer PDF](./HW3/HW3_9931061.pdf). <br />
+The Answer for Code Parts is provided in the [Code Answer Project](./HW3/SignalHW3).
 
 ### HW4
-For a detailed HomeWork description, please refer to the [Project Description PDF](./Project1/LA%20Project%201.pdf).
+For a detailed HomeWork description, please refer to the [HW4 Description PDF](./HW4/HW4.pdf). <br />
+The Answer for Theoritical Parts is provided in the [Theoritical Answer PDF](./HW4/HW4_9931061.pdf). <br />
 
 ### HW5
-For a detailed HomeWork description, please refer to the [Project Description PDF](./Project1/LA%20Project%201.pdf).
+For a detailed HomeWork description, please refer to the [HW5 Description PDF](./HW5/HW5.pdf). <br />
+The Answer for Theoritical Parts is provided in the [Theoritical Answer PDF](./HW5/HW5_9931061.pdf). <br />
+The Answer for Code Parts is provided in the [Code Answer Project](./HW5/SignalHW5).
 
 ### HW6
-For a detailed HomeWork description, please refer to the [Project Description PDF](./Project1/LA%20Project%201.pdf).
+For a detailed HomeWork description, please refer to the [HW66 Description PDF](./HW6/HW6.pdf). <br />
 
-### Final Project
-For a detailed project description, please refer to the [Project Description PDF](./Project1/LA%20Project%201.pdf).
+### Final Project: Digital Radio
+For a detailed project description, please refer to the [Project Description PDF](./Final%20Project/digital%20radio.pdf).
 
 ## IDE
 This project is developed using Pycharm.
