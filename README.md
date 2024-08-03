@@ -1,4 +1,4 @@
-# Signal & System Projects
+# Signal & System HomeWorks & Projects
 
 ## Table of Contents
 - [Project Description](#project-description)
@@ -8,23 +8,25 @@
 ## Project Description
 
 ### HW1
-For a detailed project description, please refer to the [Project Description PDF](./Project0/LinearAlgebra_Project00.pdf). <br />
-The results report is provided in the [Project Report PDF](./Project0/توضیحات%20پروژه.pdf)
+For a detailed HomeWork description, please refer to the [HW1 Description PDF](./HW1/HW1.pdf). <br />
+The Answer for Theoritical Parts is provided in the [Theoritical Answer PDF](./HW1/HW1_9931061.pdf).
 
 ### HW2
-For a detailed project description, please refer to the [Project Description PDF](./Project1/LA%20Project%201.pdf).
+For a detailed HomeWork description, please refer to the [HW2 Description PDF](./HW2/HW2.pdf). <br />
+The Answer for Theoritical Parts is provided in the [Theoritical Answer PDF](./HW2/HW2_9931061.pdf). <br />
+The Answer for Code Parts is provided in the [Code Answer Project](./HW2/SignalHW2).
 
 ### HW3
-For a detailed project description, please refer to the [Project Description PDF](./Project1/LA%20Project%201.pdf).
+For a detailed HomeWork description, please refer to the [Project Description PDF](./Project1/LA%20Project%201.pdf).
 
 ### HW4
-For a detailed project description, please refer to the [Project Description PDF](./Project1/LA%20Project%201.pdf).
+For a detailed HomeWork description, please refer to the [Project Description PDF](./Project1/LA%20Project%201.pdf).
 
 ### HW5
-For a detailed project description, please refer to the [Project Description PDF](./Project1/LA%20Project%201.pdf).
+For a detailed HomeWork description, please refer to the [Project Description PDF](./Project1/LA%20Project%201.pdf).
 
 ### HW6
-For a detailed project description, please refer to the [Project Description PDF](./Project1/LA%20Project%201.pdf).
+For a detailed HomeWork description, please refer to the [Project Description PDF](./Project1/LA%20Project%201.pdf).
 
 ### Final Project
 For a detailed project description, please refer to the [Project Description PDF](./Project1/LA%20Project%201.pdf).
