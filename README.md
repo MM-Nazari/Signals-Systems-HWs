@@ -36,6 +36,12 @@ For a detailed HomeWork description, please refer to the [HW66 Description PDF](
 ### Final Project: Digital Radio
 For a detailed project description, please refer to the [Project Description PDF](./Final%20Project/digital%20radio.pdf).
 
+## Dependencies
+This project uses the following libraries:
+
+- [numpy](https://numpy.org/)
+- [matplotlib](https://matplotlib.org/)
+
 ## IDE
 This project is developed using Pycharm.
 
