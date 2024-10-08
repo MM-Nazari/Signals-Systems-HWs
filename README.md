@@ -31,7 +31,7 @@ The Answer for Theoritical Parts is provided in the [Theoritical Answer PDF](./H
 The Answer for Code Parts is provided in the [Code Answer Project](./HW5/SignalHW5).
 
 ### HW6
-For a detailed HomeWork description, please refer to the [HW66 Description PDF](./HW6/HW6.pdf). <br />
+For a detailed HomeWork description, please refer to the [HW6 Description PDF](./HW6/HW6.pdf). <br />
 
 ### Final Project: Digital Radio
 For a detailed project description, please refer to the [Project Description PDF](./Final%20Project/digital%20radio.pdf).
